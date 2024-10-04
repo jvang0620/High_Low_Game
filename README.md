@@ -80,4 +80,3 @@ To play the game, follow these steps:
 - Extend the game by adding a scoring system or allowing multiple rounds.
 - Implement a graphical user interface (GUI) using JavaFX or Swing for a more interactive experience.
 - Add more options, such as guessing the suit of the next card or predicting if the next card will be red or black.
-# High_Low_Game
